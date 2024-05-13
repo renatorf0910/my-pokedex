@@ -5,7 +5,7 @@ This project lists the existing Pokémon from the Pokémon API, and on this visu
 Make sure you have Node.js and npm installed. You can download them at [nodejs.org](https://nodejs.org/).
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/my-pokedex.git
+    https://github.com/renatorf0910/my-pokedex.git
     ```
 2. Navigate to the project directory:
     ```bash
